@@ -1,6 +1,6 @@
 # AWS-EBS-Drupal
 Drupal deployment into AWS Elastic Bean Stalk auto-scaling 
-# AWS-EBS-Druple
+# AWS-EBS-Drupal
 Drupal deployment into AWS Elastic Bean Stalk auto-scaling 
 Build a Drupal Website on Amazon Web Services
 
